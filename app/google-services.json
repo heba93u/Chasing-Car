@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904430025871",
+    "firebase_url": "https://chasing-car.firebaseio.com",
+    "project_id": "chasing-car",
+    "storage_bucket": "chasing-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904430025871:android:76b964d6afb6ae440144fa",
+        "android_client_info": {
+          "package_name": "com.example.chasingcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904430025871-ce6f2utl7qk51dd92bmdgkjdbmjp52g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chasingcar",
+            "certificate_hash": "5f7de2acf1aecdc7e43bffa9b6da34a4d0061bb5"
+          }
+        },
+        {
+          "client_id": "904430025871-7dmrl6nv57p2gmvlh8tsj2ce8nta3ur9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIUSlmp9hLIxI3wqnML06swSFQG13QTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904430025871-7dmrl6nv57p2gmvlh8tsj2ce8nta3ur9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
